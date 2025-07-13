@@ -644,4 +644,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Built for Security Teams | Validate Your Defenses | Improve Your Posture**
 
-[Report Issues](https://github.com/malladisiddu/AWS-ThreatLab/issues) • [Documentation](https://github.com/malladisiddu/AWS-ThreatLab/wiki) • [Discussions](https://github.com/malladisiddu/AWS-ThreatLab/discussions)
+[Report Issues](https://github.com/daeveerababu/AWS_Threat_Lab/issues) • [Documentation](https://github.com/daeveerababu/AWS_Threat_Lab/wiki) • [Discussions](https://github.com/daeveerababu/AWS_Threat_Lab/discussions)
