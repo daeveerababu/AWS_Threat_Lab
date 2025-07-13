@@ -97,9 +97,9 @@ When you run the tool, you'll see the following banner:
 ║                                                                                     ║
 ║               Validate Your Security Detections | Test Your Defenses                ║
 ║                                                                                     ║
-║                        Author  - Siddartha Malladi                                  ║
-║                        Email   - malladisiddu@gmail.com                             ║
-║                        Twitter - st0ic3r                                            ║
+║                        Author  - Veerababu Sankarapu                                ║
+║                        Email   - sankarapu.veerababu@gmail.com                      ║
+║                        Link    - https://www.linkedin.com/in/veerababu-s-44b9a4293/ ║
 ║                                                                                     ║
 ╚═════════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -576,7 +576,7 @@ aws cloudtrail describe-trails --profile testing
 
 ```bash
 # Clone repository
-git clone https://github.com/malladisiddu/AWS-ThreatLab.git
+git clone https://github.com/daeveerababu/AWS_Threat_Lab.git
 cd AWS-ThreatLab
 
 # Setup virtual environment
