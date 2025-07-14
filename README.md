@@ -199,8 +199,8 @@ aws sts get-caller-identity --profile testing
 
 ```bash
 # Clone repository
-git clone https://github.com/malladisiddu/AWS-ThreatLab.git
-cd AWS-ThreatLab
+git clone https://github.com/daeveerababu/AWS_Threat_Lab.git
+cd AWS_Threat_Lab
 
 # Create virtual environment
 python3 -m venv .venv
