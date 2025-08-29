@@ -55,7 +55,7 @@ AWS-ThreatLab is designed for defensive security teams to validate their detecti
 
 ```bash
 # 1. Clone and setup
-git clone https://daeveerababu/AWS_Threat_Lab//AWS-ThreatLab.git
+git clone https://daeveerababu/AWS_Threat_Lab.git
 cd AWS-ThreatLab
 pip install -r requirements.txt
 
